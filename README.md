@@ -67,3 +67,7 @@ Feel free to explore, modify, and enhance the code for your specific requirement
 ## Access data:
 
 <https://www.kaggle.com/datasets/imtkaggleteam/pathogen-detection-salmonella-enterica/data>
+
+## Blog:
+
+<https://ssidmarine.wordpress.com/2024/02/09/salmonella-amr-genotypes-prediction/>
