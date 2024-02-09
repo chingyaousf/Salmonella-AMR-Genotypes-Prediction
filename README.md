@@ -20,7 +20,7 @@ Pathogen detection plays a crucial role in various fields, including biodefense,
 
 ### **About Salmonella Enterica**
 
-Salmonella enterica is a Gram-negative bacterium, often responsible for foodborne infections in humans. It infects various animals, including cattle and poultry, making it a significant concern for public health.\
+Salmonella enterica is a Gram-negative bacterium, often responsible for foodborne infections in humans. It infects various animals, including cattle and poultry, making it a significant concern for public health.
 
 ### **Dataset Content**
 
